@@ -1,0 +1,26 @@
+# ---- Archivos y carpetas de Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ---- Archivos temporales, logs y copias ----
+*.log
+*.tmp
+*.bak
+
+# ---- Archivos del sistema ----
+.DS_Store
+Thumbs.db
+
+# ---- Entornos virtuales ----
+venv/
+.env/
+.venv/
+
+# ---- Archivos de VS Code ----
+.vscode/
+
+# ---- Archivos de exportación o generados (por nombre o patrón) ----
+files/FitNotes_Export_*.csv
+files/strong*.csv

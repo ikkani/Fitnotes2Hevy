@@ -1,0 +1,129 @@
+Ab-Wheel Rollout
+Abductor
+Aductor
+Apertura Mancuerna
+Apertura Máquina
+Arnold Dumbbell Press
+Barbell Calf Raise
+Barbell Curl
+Barbell Front Squat
+Barbell Glute Bridge
+Barbell Row
+Barbell Shrug
+Behind The Neck Barbell Press
+Cable Crossover
+Cable Crunch
+Cable Curl
+Cable Face Pull
+Cable Overhead Triceps Extension
+Chin Up
+Close Grip Barbell Bench Press
+Complementario Hombro
+Crunch
+Crunch Machine
+Cycling
+Deadlift
+Decline Barbell Bench Press
+Decline Crunch
+Decline Hammer Strength Chest Press
+Dominada Agarre Neutro
+Dominada Normal
+Dominada Supina
+Donkey Calf Raise
+Dragon Flag
+Dumbbell Concentration Curl
+Dumbbell Curl
+Dumbbell Hammer Curl
+Dumbbell Overhead Triceps Extension
+Dumbbell Preacher Curl
+Dumbbell Row
+EZ-Bar Curl
+EZ-Bar Preacher Curl
+EZ-Bar Skullcrusher
+Elevaciones En Polea
+Elevaciones Laterales Mancuerna
+Elliptical Trainer
+Escalón Con Mancuernas
+Flat Dumbbell Bench Press
+Flat Dumbbell Fly
+Flexiones
+Fondos
+Front Dumbbell Raise
+Front Polea
+Glute-Ham Raise
+Good Morning
+Hammer Strength Row
+Hammer Strength Shoulder Press
+Hanging Knee Raise
+Hanging Leg Raise
+Hip Thurst Maquina
+Incline Barbell Bench Press
+Incline Dumbbell Bench Press
+Incline Dumbbell Fly
+Incline Hammer Strength Chest Press
+Isquio Maquina Sentado
+Jalón Pecho
+Lat Pulldown
+Lateral Machine Raise
+Leg Extension Machine
+Leg Press
+Log Press
+Lumbar
+Lying Leg Curl Machine
+Lying Triceps Extension
+Machine Shrug
+Mancuerna Encima Cabeza
+Maquina Aguantando Isométrico
+Neutral Chin Up
+Oblicuos
+One-Arm Standing Dumbbell Press
+Overhead Press
+Parallel Bar Triceps Dip
+Patada Triceps Mancuerna
+Pendlay Row
+Peso Muerto Mancuernas
+Plancha Dinamica Mancuernas
+Plank
+Press Banca
+Press Inclinado Mancuerna
+Press Militar Barra
+Press Militar Mancuernas
+Press Pecho Maquina Palanca
+Pull Up
+Pullover Polea
+Push Press
+Rack Pull
+Rear Delt Dumbbell Raise
+Rear Delt Machine Fly
+Remo En Maquina
+Remo En Polea
+Ring Dip
+Romanian Deadlift
+Rope Push Down
+Rowing Machine
+Running (Outdoor)
+Running (Treadmill)
+Seated Calf Raise Machine
+Seated Dumbbell Lateral Raise
+Seated Dumbbell Press
+Seated Incline Dumbbell Curl
+Seated Leg Curl Machine
+Seated Machine Curl
+Seated Machine Fly
+Sentadilla Con Barra
+Sentadilla Con Mancuerna
+Sentadillas Búlgaras Con Mancuernas
+Side Plank
+Smith Machine Close Grip Bench Press
+Smith Machine Overhead Press
+Standing Calf Raise Machine
+Stationary Bike
+Stiff-Legged Deadlift
+Straight-Arm Cable Pushdown
+Sumo Deadlift
+Swimming
+T-Bar Row
+Triceps Polea Para Abajo
+Triceps Polea Para Arriba
+V-Bar Push Down
+Walking
