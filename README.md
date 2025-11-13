@@ -22,3 +22,8 @@ pip install -r requirements.txt
 ```
 
 5. Change variables in config.py with your own configuration (important to set the path of the FitNotes export).
+
+6. Execute the code.
+```
+python main.py
+```
