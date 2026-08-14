@@ -1,6 +1,7 @@
 Ab-Wheel Rollout
 Abductor
 Aductor
+Allahy
 Apertura Mancuerna
 Apertura Máquina
 Arnold Dumbbell Press
@@ -11,21 +12,35 @@ Barbell Glute Bridge
 Barbell Row
 Barbell Shrug
 Behind The Neck Barbell Press
+Biceps hantlami stojąc
+Biceps na bramie sznur dół
+Biceps na bramie wysoko
+Biceps sztanga stojąc
+Bieganie na bieżni
+Brzuszki
+Brzuszki skos ujemny
 Cable Crossover
 Cable Crunch
 Cable Curl
 Cable Face Pull
 Cable Overhead Triceps Extension
+Calf raises na maszynie
 Chin Up
 Close Grip Barbell Bench Press
 Complementario Hombro
+Converging chest press (maszyna)
+Converging shoulder press
 Crunch
 Crunch Machine
 Cycling
+Deadhang
 Deadlift
 Decline Barbell Bench Press
 Decline Crunch
 Decline Hammer Strength Chest Press
+Dips - Weighted
+Dipy
+Diverging seated row
 Dominada Agarre Neutro
 Dominada Normal
 Dominada Supina
@@ -37,25 +52,35 @@ Dumbbell Hammer Curl
 Dumbbell Overhead Triceps Extension
 Dumbbell Preacher Curl
 Dumbbell Row
-EZ-Bar Curl
-EZ-Bar Preacher Curl
-EZ-Bar Skullcrusher
+Dół klaty na bramie
 Elevaciones En Polea
 Elevaciones Laterales Mancuerna
 Elliptical Trainer
 Escalón Con Mancuernas
+EZ-Bar Curl
+EZ-Bar Preacher Curl
+EZ-Bar Skullcrusher
+Facepull
 Flat Dumbbell Bench Press
 Flat Dumbbell Fly
 Flexiones
+Fly Pec
 Fondos
 Front Dumbbell Raise
 Front Polea
+Front Squad
 Glute-Ham Raise
+Good morning
 Good Morning
+Hack Squad
+Hammer curl
 Hammer Strength Row
 Hammer Strength Shoulder Press
 Hanging Knee Raise
 Hanging Leg Raise
+Hantle na ławce płaskiej
+Hantle na ławce skośnej
+Hantle skośna ławka
 Hip Thurst Maquina
 Incline Barbell Bench Press
 Incline Dumbbell Bench Press
@@ -63,19 +88,30 @@ Incline Dumbbell Fly
 Incline Hammer Strength Chest Press
 Isquio Maquina Sentado
 Jalón Pecho
+Kółko do jezdzenia
+Lat Pull
 Lat Pulldown
 Lateral Machine Raise
+Leg curl
+Leg extension
 Leg Extension Machine
 Leg Press
+Leg press
+Leg press (one leg)
 Log Press
+Long head ławka
 Lumbar
 Lying Leg Curl Machine
 Lying Triceps Extension
 Machine Shrug
 Mancuerna Encima Cabeza
 Maquina Aguantando Isométrico
+Modlitewnik maszyna
+Modlitewnik sztanga
+Negatywy
 Neutral Chin Up
 Oblicuos
+OHP
 One-Arm Standing Dumbbell Press
 Overhead Press
 Parallel Bar Triceps Dip
@@ -84,23 +120,36 @@ Pendlay Row
 Peso Muerto Mancuernas
 Plancha Dinamica Mancuernas
 Plank
+Podciąganie australijskie
+Poziome wiosłownie siedząc
 Press Banca
 Press Inclinado Mancuerna
 Press Militar Barra
 Press Militar Mancuernas
 Press Pecho Maquina Palanca
+Przysiad bułgarski
+Przysiad ze sztangą
 Pull Up
+Pull Up (nadchwyt)
 Pullover Polea
+PullUp
+PullUp - Weighted
 Push Press
+Push-up
 Rack Pull
+RDL
+Rear delt
 Rear Delt Dumbbell Raise
 Rear Delt Machine Fly
 Remo En Maquina
 Remo En Polea
 Ring Dip
 Romanian Deadlift
+Rope pulldown
 Rope Push Down
+Rowerek
 Rowing Machine
+Rozpiętki hantlami
 Running (Outdoor)
 Running (Treadmill)
 Seated Calf Raise Machine
@@ -114,6 +163,8 @@ Sentadilla Con Barra
 Sentadilla Con Mancuerna
 Sentadillas Búlgaras Con Mancuernas
 Side Plank
+Skull crushers hantlami leżac
+Smith dodatni
 Smith Machine Close Grip Bench Press
 Smith Machine Overhead Press
 Standing Calf Raise Machine
@@ -122,8 +173,30 @@ Stiff-Legged Deadlift
 Straight-Arm Cable Pushdown
 Sumo Deadlift
 Swimming
+Sztana łamana stojac
+Sztanga wąski chwyt
 T-Bar Row
+Trapbar deadlift
+Triceps extension
+Triceps na bramie
+Triceps na linkach superman
+Triceps na ławce sztangą
 Triceps Polea Para Abajo
 Triceps Polea Para Arriba
+Triceps Sam Sulek
+Tył nóg na maszynie
 V-Bar Push Down
 Walking
+Wioslowanie na maszynie przy ławach :xdd:
+Wiosłowanie stojąc
+Wiosłownaie hantlem
+Wyciskanie na barki hantlami siedząc
+Wyciskanie na płaskiej
+Wyciskanie na Smith'a
+Wyciskanie sztanga dodatnia
+Wykroki z hantlami
+Wznosy hantli bokiem
+Wznosy na drązku
+Wznosy nóg leżac
+Wznosy nóg na podporkach
+łydki konik
